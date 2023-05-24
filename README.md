@@ -10,13 +10,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
 ### Screenshot
 
-![](./public/screenshot.png)
+![screenshot ](https://github.com/DaniSuarezG/FrontendMentor-QRChallenge/assets/122812120/af2776f4-1f86-41f4-9dcc-9c3b3abbcfde)
 
 
 ### Links
