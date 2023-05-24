@@ -1,5 +1,35 @@
 .card {
-  width: 100px;
-  height: 200px;
   background-color: white;
+  width: 270px;
+  height: max-content;
+  border-radius: 20px;
+  padding: 15px
+}
+
+.card img {
+  border-radius: 10px;
+  width: inherit;
+}
+
+.title {
+  width: inherit;
+  text-align: center;
+  font-size: 22px;
+}
+
+.title p {
+  padding: 0 10px;
+  font-weight: 700;
+}
+
+.message {
+  width: inherit;
+  text-align: center;
+}
+
+.message p {
+  padding: 0 10px;
+  font-size: 15px;
+  font-weight: 400;
+  color: hsl(220, 15%, 55%);
 }
