@@ -1,9 +1,10 @@
 import './Card.css'
+import qr from '../assets/image-qr-code.png'
 
 function Card() {
   return (
     <div className="card">
-      <img src="/src/assets/image-qr-code.png" alt="" />
+      <img src={qr} alt="" />
       <div className='title'>
         <p>
           Improve your front-end skills by building projects
